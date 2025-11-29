@@ -81,4 +81,4 @@ while True:
 
 
 # the gcd function above is called and it prints the result which is a
-print("The Greatest Common Denominator is", gcd(a, b))
+print("The Greatest Common Divisor is", gcd(a, b))
