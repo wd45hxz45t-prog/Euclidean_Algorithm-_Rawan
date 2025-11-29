@@ -17,7 +17,7 @@ def gcd(a, b):
     return a
 
 # the gcd function above is called and it prints the result which is a
-print("The Greatest Common Denominator is", gcd(48, 18))
+print("The Greatest Common Divisor is", gcd(48, 18))
 
 
 
